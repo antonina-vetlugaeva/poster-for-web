@@ -10,13 +10,24 @@ body {
     width: 1440px;
     height: 900px;
 }
+img {
+    width: 244px;
+    height: 61px;
+    position: absolute;
+    bottom: -100px;
+    right: -200px;
+    text-align: right;
+}
+
 .poem {
     position: absolute;
-    margin-top: 366px;
-    margin-bottom: 366px;
+    margin-top: 266px;
+    margin-bottom: 466px;
     margin-left: 110px;
     width: 816px;
     height: 168px;
+    display: table-cell;
+    vertical-align: middle;
 }
 ul {
     margin: 0;
@@ -62,3 +73,6 @@ ul li:nth-child(4) {
 ul li:nth-child(5) {
     animation-delay: 1.6s;
 }
+
+
+.contain {display: table;}
