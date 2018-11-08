@@ -14,8 +14,8 @@ img {
     width: 192px;
     height: 48px;
     position: absolute;
-    bottom: -200px;
-    right: -200px;
+    bottom: -50px;
+    right: 50px;
     text-align: right;
 }
 
