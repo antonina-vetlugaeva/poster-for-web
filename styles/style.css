@@ -14,16 +14,16 @@ img {
     width: 244px;
     height: 61px;
     position: absolute;
-    bottom: -100px;
-    right: -200px;
+    bottom: -50px;
+    right: 50px;
     text-align: right;
 }
 
 .poem {
     position: absolute;
-    margin-top: 266px;
-    margin-bottom: 466px;
-    margin-left: 110px;
+    margin-top: 300px;
+    margin-bottom: 400px;
+    margin-left: 50px;
     width: 816px;
     height: 168px;
     display: table-cell;
